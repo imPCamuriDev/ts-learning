@@ -1,5 +1,5 @@
 "use strict";
-let nome = "Lucas";
+let nome1 = "Lucas";
 let idade = 20;
 let altura = 1.7;
 let estudante = true;

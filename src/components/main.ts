@@ -1,4 +1,4 @@
-let nome: String = "Lucas";
+let nome1: String = "Lucas";
 let idade: Number = 20;
 let altura: Number = 1.7;
 let estudante: Boolean = true;
