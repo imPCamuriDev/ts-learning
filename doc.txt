@@ -1,2 +1,4 @@
 Baixar: npm install --save-dev rimraf
 Para rodar o script build em package.json
+
+curso: https://jornadadodev.com.br
